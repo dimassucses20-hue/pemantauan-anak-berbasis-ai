@@ -31,6 +31,14 @@ Aplikasi memiliki 2 tab navigasi utama:
      - *Action Plan:* 1 Rekomendasi dialog/aktivitas bonding ortu-anak.
 
 
+2. **Tab 📈 Scan KMS Fisik (Tumbuh Kembang WHO)**
+   - *Input:* Unggah foto halaman KMS / Buku KIA fisik.(opsional)
+   - *Output AI:*
+     - Ekstraksi Data: Nilai Tinggi Badan (TB) & Berat Badan (BB).
+     - Status WHO: Kategori kurva (Ideal, Kurang, Risiko Stunting).
+     - Action Plan: 1 Saran gizi/stimulasi motorik harian.
+
+
 ### Module C: Interactive AI Scan/Submit Zone
 - Area Input Teks (Jurnal) & Upload Foto (KMS).
 - Tombol CTA "Analisis dengan AI".
