@@ -17,7 +17,7 @@ export default function ComprehensiveBarChart({ childInfo }) {
     { period: 'APR', physical: 8, emotional: 7, habits: 7 },
     { period: 'JUL', physical: 8, emotional: 8, habits: 7 },
     { period: 'OKT', physical: 9, emotional: 8, habits: 8 },
-    { period: 'JAN 2025', isLatest: true, physical: 9, emotional: 9, habits: 8 }
+    { period: 'JAN 2026', isLatest: true, physical: 9, emotional: 9, habits: 8 }
   ];
 
   // Custom Tooltip
@@ -65,7 +65,7 @@ export default function ComprehensiveBarChart({ childInfo }) {
             <span className="text-lg leading-none">📊</span>
           </div>
           <h3 className="text-lg font-black text-slate-900 tracking-tight">
-            Evaluasi Komprehensif Balita (Per 3 Bulan)
+            Evaluasi Komprehensif anak (Per 3 Bulan)
           </h3>
         </div>
 
